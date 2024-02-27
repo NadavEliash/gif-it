@@ -7,8 +7,8 @@ export default function Home() {
       title: 'Landing'
     },
     {
-      href: '/shoot',
-      title: 'Shoot'
+      href: '/record',
+      title: 'Record'
     },
     {
       href: '/events',
